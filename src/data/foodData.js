@@ -1,4 +1,11 @@
 export const foodLists = {
+    healthy: [
+        "Moong Dal Chilla", "Mixed Sprouts Salad", "Oats Khichdi",
+        "Ragi Dosa", "Dalia (Broken Wheat) Upma", "Quinoa Khichdi",
+        "Vegetable Poha", "Makhana (Fox Nuts) Snack", "Paneer Tikka (Grilled)",
+        "Lauki (Bottle Gourd) Sabzi", "Moong Dal Soup", "Cucumber Raita & Roti",
+        "Masala Oats", "Methi Thepla", "Palak Paneer (Light)", "Ragi Malt"
+    ],
     breakfast: [
         "Pesto Poha", "Indo-Chinese Fried Idli", "Cheesy Corn Upma", 
         "Masala Mashed Avocado Toast", "Rava Pancakes", "Moong Dal Waffles", 
