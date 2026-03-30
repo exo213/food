@@ -1,24 +1,23 @@
 export const foodLists = {
     breakfast: [
-        "Idli Sambhar", "Bread Omelette", "Dal", "Sprouts", "Parantha", 
-        "Daliya", "Aloo Puri", "Poha", "Pakode", "Sandwich", "Kachodi", "Samose", "pav bhaji",
-        "Rava Upma", "Kanda Poha", "Instant Rava Idli", "Rava Uttapam", 
-        "Moonglet", "Eggless Omelette", "Besan Khandvi", "Instant Khaman Dhokla", 
-        "Chilli Cheese Toast", "Jini Dosa", "Moong Dal Cheela", "Sooji Cutlet", 
-        "Sooji Fara", "Lauki Muthiya"
+        "Pesto Poha", "Indo-Chinese Fried Idli", "Cheesy Corn Upma", 
+        "Masala Mashed Avocado Toast", "Rava Pancakes", "Moong Dal Waffles", 
+        "Paneer Stuffed French Toast (Veg)", "Misal Pav", "Vada Pav", 
+        "Methi Thepla", "Sabudana Khichdi", "Appam with Stew", 
+        "Bread Katli", "Oats Chilla", "Suji Toast", "Besan Chilla Tacos"
     ], 
     lunch: [
-        "Paneer Bhurji", "Chole", "Rajma", "Dal", "Bhindi", 
-        "Arbi", "Kaddu", "Tinde", "Kofte", "Curry", "Rolls",
-        "Jodhpuri Kabuli Pulao", "Tomato Rice", "Masala Pulao", "Veg Dhansak", 
-        "Soya Keema Pav", "Jodhpuri Aloo", "Veg Makhanwala", "Dhaba Mix Veg", 
-        "Mushroom Kali Mirch", "Shahi Dal Mughlai", "Paneer Afghani", "Chunky Soya Pulao"
+        "Thai Green Curry with Paneer", "Schezwan Fried Rice", "Mexican Rajma Bowl", 
+        "Paneer Tikka Quesadilla", "Amritsari Kulcha & Chole", "Dal Baati Churma", 
+        "Gatta Curry", "Bhindi Do Pyaza", "Kathal (Jackfruit) Biryani", 
+        "Lemon Rice", "Bisi Bele Bath", "Stuffed Shimla Mirch", 
+        "Dahi Baigana", "Lauki Kofta", "Curd Rice", "Paneer Jalfrezi Wrap"
     ],
     dinner: [
-        "Pasta", "Dal Makhani", "Paneer Butter Masala", "Egg Curry", "Palak Paneer", 
-        "Kebab", "Matar Paneer", "Khichdi", "Chinese", "Biryani", "Soya chaap",
-        "Bohri Style Aloo Dum Biryani", "Mix Veg in Hot Garlic Sauce", "Paneer Rezala", 
-        "Malai Kofta", "Kashmiri Pulao", "Veg Jalfrezi", "Baingan Bharta", 
-        "Dal Panchmel", "Kadai Paneer", "Veg Handi", "Methi Matar Malai"
+        "Paneer Lasagna", "Makhani Pasta", "Veg Khao Suey", 
+        "Chilli Paneer with Hakka Noodles", "Mushroom Risotto", "Dal Maharani", 
+        "Nargisi Kofta (Veg)", "Dum Aloo Lakhnawi", "Sarson Da Saag & Makki Di Roti", 
+        "Malai Chaap Curry", "Veg Galouti Kebab", "Tawa Paneer", 
+        "Handi Paneer", "Achari Baingan", "Afghani Chaap", "Veg Manchurian Gravy"
     ] 
 };
